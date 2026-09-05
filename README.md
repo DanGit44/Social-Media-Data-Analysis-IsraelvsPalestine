@@ -45,7 +45,7 @@ I'm using a variety of tools to make all this happen:
 
 
 ---
-## A slight caveat
+## A slight Disclaimer
 There are a few assumptions that are important to remember:
 1. There will be errors in using the dictionary to classify support for each side (for example, someone saying: "All those who write for free Palestine are ignorant") that we will certainly fall into, but they are few and probably exist on both sides so that they offset each other. Using an AI model would have been better but requires excessive resources.
 2. The project mainly concerns comments from a specific social network, there are other social networks and it is possible that demographically the conclusions from the project will not necessarily represent the entire population.
